@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.c95c3bd2.chunk.css",
+    "main.js": "/react-app/static/js/main.a45efb8b.chunk.js",
+    "main.js.map": "/react-app/static/js/main.a45efb8b.chunk.js.map",
+    "runtime-main.js": "/react-app/static/js/runtime-main.d5cda9bc.js",
+    "runtime-main.js.map": "/react-app/static/js/runtime-main.d5cda9bc.js.map",
+    "static/js/2.5db3ca9b.chunk.js": "/react-app/static/js/2.5db3ca9b.chunk.js",
+    "static/js/2.5db3ca9b.chunk.js.map": "/react-app/static/js/2.5db3ca9b.chunk.js.map",
+    "index.html": "/react-app/index.html",
+    "precache-manifest.c7843b6b271f949fd67394bf443ede89.js": "/react-app/precache-manifest.c7843b6b271f949fd67394bf443ede89.js",
+    "service-worker.js": "/react-app/service-worker.js",
+    "static/css/main.c95c3bd2.chunk.css.map": "/react-app/static/css/main.c95c3bd2.chunk.css.map",
+    "static/js/2.5db3ca9b.chunk.js.LICENSE.txt": "/react-app/static/js/2.5db3ca9b.chunk.js.LICENSE.txt",
+    "static/media/card-top.jpg": "/react-app/static/media/card-top.63ab054f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5cda9bc.js",
+    "static/js/2.5db3ca9b.chunk.js",
+    "static/css/main.c95c3bd2.chunk.css",
+    "static/js/main.a45efb8b.chunk.js"
+  ]
+}
